@@ -1,0 +1,21 @@
+body{
+    background-image: url(assets/mug-8235059_1280.jpg);
+    height: 100vh;
+}
+
+
+.text{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 200px;
+    color: aliceblue;
+    
+}
+
+
+footer{
+    padding-top: 20px;
+    color: blue;
+}
+

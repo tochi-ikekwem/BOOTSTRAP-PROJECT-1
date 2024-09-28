@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+    height: 100vh;
+    text-align: center;   
+
+}
+
+.container text-center{
+    display: grid;
+    grid-template-rows: (1, auto 200px);
+    grid-template-columns: (50px, auto 100px) ;
+}
